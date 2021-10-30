@@ -1,10 +1,16 @@
 # Session 0 - 10/23/2021
 
-Mackenzie will be playing a *Goblin* Bard named <u>FuckFace</u>
+------
 
-Hunter will be playing a **female** *Fallen Aasimar* Wild Magic Sorcerer named <u>FuckFace</u>
+* Mackenzie will be playing a *Half-elf* College of Lore Bard named <u>Emelia Lockheart</u>
+  * She writes books. 
+* Hunter will be playing a Fallen Aasimar* Wild Magic Sorcerer named <u>Eren Face</u>
+  * Literally bat-shit crazy. 
+* Cody will be playing a *Kobold* Sun Soul Monk named <u>Donovan "Donny" Shek</u>
+  * Afraid of the dark because humans forced him to lookout for shadows
+* Zach will be playing a *Goliath* Ancestral Guardians Barbarian named <u>Eugene "Dreamstalker" Kalukalane</u>
+  * Sensitive guy with anger issues -> cries after raging 
 
-Cody will be playing a *Kobold* Sun Soul Monk named <u>Donovan "Donny"</u>
+No auto success/fail on natural 20/natural 1 
 
-Zach will be playing a *Goliath* Ancestral Guardians Barbarian named <u>Eugene "Dreamstalker" Kalukalane</u>
-
+Double Advantage/Double Disadvange: $-2^-, 0^-, 0, 0^+, 2^+$ 
