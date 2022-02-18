@@ -1,4 +1,4 @@
-# Session 2
+# Session 2 - 2/6/22
 
 We are at the center square of <u>Emberwood Village</u> at about 4:00 PM.
 
@@ -27,5 +27,7 @@ We hear sounds of a ruckus and people pleading "help me" and "save me". We ignor
 The closer we are to the wall, the worse *The Haze* is.
 
 Gnolls appeared around the same time that the meteor landed. Perhaps they are from Delirium?
+
+## We went to the <u>Eckerman Mill</u>
 
 **<u>Don't go to Slaughter Stone Square</u>**: written by three different people. It looks like he was the only one that survived. His name was not crossed out. His name was Andre, and it was made a couple years ago.

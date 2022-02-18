@@ -6,6 +6,7 @@
 4. River (Blue hair tiefling) - works for Amethyst Academy and lives in <u>Emberwood Village</u>.
 5. Eldric - River's higher-up
 6. Lord Von Moltov - 
+7. Elias Drexil - Lord Commander of the Hooded Lantern
 
 ## Dead
 

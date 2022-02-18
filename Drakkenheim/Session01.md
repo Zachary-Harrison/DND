@@ -1,4 +1,4 @@
-# Session 1
+# Session 1 - 1/30/22
 
 **DM:**
 
@@ -6,10 +6,10 @@
 
 **Players:**
 
-- Calvin Yoder - Tobias Anders (Battlemaster Fighter)
+- Calvin Yoder - Lukas Von Kessel (Battlemaster Fighter)
 - Alex Rea - Reese (Hexblade Warlock)
 - Eric Aikens - Ernie (Barbarian)
-- Jackson Gardener  - Tomyras (FEMALE Paladin)
+- Jackson Gardener  - Tomyras (Toe-my-riss) (FEMALE Paladin)
 
 We meet in a Tavern! Woohoo! Some dude named Erin recruited us for an escort mission to <u>Emberwood Village</u>.
 
