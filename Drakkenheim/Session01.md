@@ -31,6 +31,6 @@ Emma Crow gives us a tour around Emberwood and we find:
 
 - There are two taverns called the <u>Gilded Lily</u>, the <u>Bark and Buzzard</u>, and the <u>Skull and Sword</u>
 - <u>Redlion Hotel</u>: Hotel/inn
-- <u>Scrawl and Son(s)</u>: blacksmith - good steel
+- <u>Crowe and Son(s)</u>: blacksmith - good steel
 
 River gives me a job: Go to the <u>Rat's Nest</u> and find a large source of Delirium. Delirium can be handled with steel or precious metals OR encase it in glass. She says she'll pay me 500-2000 gold, depending on how big the piece is. 
