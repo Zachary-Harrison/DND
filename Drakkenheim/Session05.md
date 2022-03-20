@@ -18,3 +18,5 @@ We see Aldor the Immense and learn that the Amethyst Academy has learned how to 
 3. Kaladan goes to the Skull and Sword (Thieves guild)
    1. Caspian Princess (Firstname Jackson) came through <u>Emberwood Village</u>
    2. Go Talk to Mel (back room). Short, greasy man. He's clearly cheating and has lots of money.
+
+The Toy Maker went to Drakkenheim and joined the Followers of the Falling Fire

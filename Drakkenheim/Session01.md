@@ -29,7 +29,7 @@ The Academy really wants Delirium because they say they can use it to make magic
 
 Emma Crow gives us a tour around Emberwood and we find:
 
-- There are two taverns called the <u>Gilded Lily</u>, the <u>Bark and Buzzard</u>, and the <u>Skull and Sword</u>
+- There are three taverns called the <u>Gilded Lily</u>, the <u>Bark and Buzzard</u>, and the <u>Skull and Sword</u>
 - <u>Redlion Hotel</u>: Hotel/inn
 - <u>Crowe and Son(s)</u>: blacksmith - good steel
 
