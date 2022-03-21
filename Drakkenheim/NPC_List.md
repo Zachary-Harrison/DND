@@ -9,6 +9,7 @@ Bolded NPC's are **Faction Leaders**
 3. Aldor The Immense - extremely fat man with magic steel steeds. He is a merchant
 4. Lord Von Moltov - 
 5. Tobias Crowe - blacksmith
+6. Hodge Maze - Toy Maker (now follower of the Falling Fire)
 
 ## Dead
 
