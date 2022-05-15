@@ -25,5 +25,3 @@ We find Lecretian Mathias, who raised Kaladan from the dead using a large Deliri
 Tomyras storms off and I follow him to the camp of the Falling Fire
 
 ###### We end this session running into the deeper city.
-
-

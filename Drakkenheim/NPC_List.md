@@ -10,6 +10,7 @@ Bolded NPC's are **Faction Leaders**
 4. Lord Von Moltov - 
 5. Tobias Crowe - blacksmith
 6. Hodge Maze - Toy Maker (now follower of the Falling Fire)
+7. Killian Van Dyer
 
 ## Dead
 
@@ -41,3 +42,4 @@ Bolded NPC's are **Faction Leaders**
 
 1. **Lucretia Mathias** - Leader of the Falling Fire
 2. Nathaniel Flint - Follower with crystal in chest
+3. 
